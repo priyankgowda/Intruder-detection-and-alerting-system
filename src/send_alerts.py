@@ -11,7 +11,7 @@ logging.basicConfig(
 )
 
 # Your bot token
-BOT_TOKEN = "7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY"
+BOT_TOKEN = "telegram_bot_api_token"
 
 # Command to display buttons
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:

@@ -11,8 +11,8 @@ from telegram.ext import Application, CallbackQueryHandler
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Telegram Bot token and chat ID
-BOT_TOKEN = "telegram_bot_token"
-CHAT_ID = "chat_id"
+BOT_TOKEN = "telegram_bot_api_token"
+CHAT_ID = "telegram_chat_id"
 
 # Initialize the bot
 bot = Bot(token=BOT_TOKEN)
