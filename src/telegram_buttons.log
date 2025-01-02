@@ -1,0 +1,35 @@
+2024-12-25 20:24:19 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getMe "HTTP/1.1 200 OK"
+2024-12-25 20:24:19 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-25 20:24:19 - Application started
+2024-12-25 20:24:20 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:24:30 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:24:41 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:24:51 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:25:01 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:25:11 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:25:22 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:25:32 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:26:13 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getMe "HTTP/1.1 200 OK"
+2024-12-25 20:26:13 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-25 20:26:13 - Application started
+2024-12-25 20:26:14 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:26:14 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendMessage "HTTP/1.1 200 OK"
+2024-12-25 20:26:24 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:26:34 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:26:39 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:26:41 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/answerCallbackQuery "HTTP/1.1 200 OK"
+2024-12-25 20:26:41 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/editMessageText "HTTP/1.1 200 OK"
+2024-12-25 20:26:41 - User marked the person as Unknown.
+2024-12-25 20:26:50 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:27:00 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:27:04 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-25 20:27:04 - Application is stopping. This might take a moment.
+2024-12-25 20:27:04 - Application.stop() complete
+2024-12-25 20:27:04 - Bot started. Waiting for commands...
+2024-12-27 20:30:00 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getMe "HTTP/1.1 200 OK"
+2024-12-27 20:30:00 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/deleteWebhook "HTTP/1.1 200 OK"
+2024-12-27 20:30:00 - Application started
+2024-12-27 20:30:11 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/getUpdates "HTTP/1.1 200 OK"
+2024-12-27 20:30:11 - Application is stopping. This might take a moment.
+2024-12-27 20:30:11 - Application.stop() complete
+2024-12-27 20:30:11 - Bot started. Waiting for commands...

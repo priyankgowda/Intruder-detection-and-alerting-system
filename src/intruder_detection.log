@@ -1,0 +1,126 @@
+2024-12-25 19:23:45 - Logging initialized.
+2024-12-25 19:23:50 - Webcam started.
+2024-12-25 19:23:51 - priyank entered the room.
+2024-12-25 19:24:19 - Room is empty.
+2024-12-25 19:24:19 - priyank entered the room.
+2024-12-25 19:24:21 - Room is empty.
+2024-12-25 19:24:46 - priyank entered the room.
+2024-12-25 19:24:53 - Webcam stopped by user.
+2024-12-25 20:31:43 - Webcam started.
+2024-12-25 20:31:44 - priyank entered the room.
+2024-12-25 20:31:52 - Room is empty.
+2024-12-25 20:31:53 - priyank entered the room.
+2024-12-25 20:32:08 - Webcam stopped by user.
+2024-12-25 20:33:38 - Webcam started.
+2024-12-25 20:33:39 - Intruder entered the room.
+2024-12-25 20:34:50 - Webcam started.
+2024-12-25 20:34:51 - Intruder entered the room.
+2024-12-25 20:37:03 - Webcam started.
+2024-12-25 20:37:04 - Intruder entered the room.
+2024-12-25 20:37:08 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:37:12 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:37:15 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:37:18 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:37:22 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:27 - Webcam started.
+2024-12-25 20:46:28 - Intruder entered the room.
+2024-12-25 20:46:32 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:35 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:38 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:41 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:44 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:47 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:49 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:52 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:55 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:58 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-25 20:46:58 - Webcam stopped by user.
+2024-12-27 20:27:47 - Webcam started.
+2024-12-27 20:27:48 - Intruder entered the room.
+2024-12-27 20:27:54 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:27:57 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:28:00 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:28:03 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:28:06 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:28:09 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:28:12 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:28:15 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:28:18 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:28:19 - Webcam stopped by user.
+2024-12-27 20:30:47 - Webcam started.
+2024-12-27 20:30:48 - Intruder entered the room.
+2024-12-27 20:30:50 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:30:53 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:30:55 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:30:57 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:30:57 - Webcam stopped by user.
+2024-12-27 20:40:20 - Webcam started.
+2024-12-27 20:40:21 - Intruder entered the room.
+2024-12-27 20:40:26 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:40:30 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 20:40:30 - Webcam stopped by user.
+2024-12-27 21:02:24 - Webcam started.
+2024-12-27 21:02:25 - Intruder entered the room.
+2024-12-27 21:02:27 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 21:02:27 - Alert sent. Total alerts sent: 1
+2024-12-27 21:02:29 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 21:02:29 - Alert sent. Total alerts sent: 2
+2024-12-27 21:02:30 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-27 21:02:30 - Alert sent. Total alerts sent: 3
+2024-12-27 21:02:30 - Maximum alert limit reached.
+2024-12-27 21:02:48 - Webcam stopped by user.
+2024-12-29 17:58:37 - Webcam started.
+2024-12-29 17:58:39 - Intruder entered the room.
+2024-12-29 17:59:46 - Webcam started.
+2024-12-29 17:59:48 - Intruder entered the room.
+2024-12-29 17:59:50 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 17:59:50 - Alert sent. Total alerts sent: 1
+2024-12-29 17:59:53 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 17:59:53 - Alert sent. Total alerts sent: 2
+2024-12-29 17:59:56 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 17:59:56 - Alert sent. Total alerts sent: 3
+2024-12-29 17:59:56 - Maximum alert limit reached.
+2024-12-29 18:00:33 - Webcam stopped by user.
+2024-12-29 18:09:55 - Webcam started.
+2024-12-29 18:09:57 - Intruder entered the room.
+2024-12-29 18:10:02 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:02 - Alert sent for intruder ID: 3994513261816952072
+2024-12-29 18:10:05 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:05 - Alert sent for intruder ID: 318728328629615850
+2024-12-29 18:10:07 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:07 - Alert sent for intruder ID: -3111435733060320943
+2024-12-29 18:10:11 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:11 - Alert sent for intruder ID: -860857307398316771
+2024-12-29 18:10:13 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:13 - Alert sent for intruder ID: 6367182982895762858
+2024-12-29 18:10:16 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:16 - Alert sent for intruder ID: 3189762599570078162
+2024-12-29 18:10:18 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:18 - Alert sent for intruder ID: 195304303621856947
+2024-12-29 18:10:20 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:20 - Alert sent for intruder ID: 1973341930921797787
+2024-12-29 18:10:22 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:22 - Alert sent for intruder ID: -4503629019474687383
+2024-12-29 18:10:24 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:24 - Alert sent for intruder ID: -1441158523835891636
+2024-12-29 18:10:26 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:26 - Alert sent for intruder ID: -8324545659242577372
+2024-12-29 18:10:28 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:28 - Alert sent for intruder ID: -2441538456972656524
+2024-12-29 18:10:31 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:31 - Alert sent for intruder ID: -9176448430366770747
+2024-12-29 18:10:33 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:33 - Alert sent for intruder ID: 4653708050972473890
+2024-12-29 18:10:36 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:36 - Alert sent for intruder ID: -2959962907387276626
+2024-12-29 18:10:38 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:38 - Alert sent for intruder ID: 5470371497072263809
+2024-12-29 18:10:39 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:39 - Alert sent for intruder ID: -899691558324604204
+2024-12-29 18:10:42 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:42 - Alert sent for intruder ID: 8383636109293298936
+2024-12-29 18:10:44 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:44 - Alert sent for intruder ID: -1260914827157554889
+2024-12-29 18:10:46 - HTTP Request: POST https://api.telegram.org/bot7978388745:AAEfOItqtQrHaNoRzRvp7LG0b6Kbb5BroOY/sendPhoto "HTTP/1.1 200 OK"
+2024-12-29 18:10:46 - Alert sent for intruder ID: -3103773548124641467
+2024-12-29 18:10:46 - Webcam stopped by user.

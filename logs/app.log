@@ -1,0 +1,21 @@
+2024-12-25 14:49:04,823 - INFO - The name 'priyank' already exists in the database.
+2024-12-25 14:51:24,991 - INFO - The name 'priyank' already exists in the database.
+2024-12-25 15:15:26,528 - INFO - Attempt to add duplicate name: priyank
+2024-12-25 15:19:42,540 - INFO - Removed 'priyank' from the database.
+2024-12-25 15:19:53,946 - INFO - Removed 'me' from the database.
+2024-12-25 15:25:08,260 - INFO - Removed 'dhd' from the database.
+2024-12-25 15:27:24,916 - INFO - priyank added to known encodings.
+2024-12-25 15:29:47,315 - INFO - Attempt to add duplicate name: priyank
+2024-12-25 15:30:26,077 - INFO - Removed 'priyank' from the database.
+2024-12-25 15:31:12,570 - WARNING - No face detected during live capture for priyank.
+2024-12-25 15:31:28,192 - INFO - Trained priyank using live capture method.
+2024-12-25 15:31:28,523 - INFO - priyank added to known encodings.
+2024-12-25 15:32:45,098 - ERROR - Failed to load image for nithin from 'C:\Users\Shashank\Downloads\training-faces'.
+2024-12-25 15:33:21,942 - ERROR - Failed to load image for nithin from 'C:\Users\Shashank\Downloads\training-faces'.
+2024-12-25 15:35:09,949 - ERROR - Failed to load image for nithin from 'C:\Users\Shashank\AppData\Local\Programs\Python\Python310\python.exe C:\Users\Shashank\PycharmProjects\Intruder-detection-and-alerting-system\src\train_faces.py'.
+2024-12-25 15:35:53,928 - ERROR - Failed to load image for nithin from 'C:\Users\Shashank\Downloads\training-faces\nithin.jpeg'.
+2024-12-25 15:36:40,780 - INFO - Trained nithin using image method.
+2024-12-25 15:36:40,782 - INFO - nithin added to known encodings.
+
+2024-12-25 20:33:24,993 - INFO - Removed 'priyank' from the database.
+2024-12-29 17:59:27,632 - INFO - Exiting live capture without saving for live.
