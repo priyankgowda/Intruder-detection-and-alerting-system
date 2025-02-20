@@ -19,3 +19,8 @@
 
 2024-12-25 20:33:24,993 - INFO - Removed 'priyank' from the database.
 2024-12-29 17:59:27,632 - INFO - Exiting live capture without saving for live.
+2025-02-13 14:40:14,178 - INFO - Trained priyank using live capture method.
+2025-02-13 14:40:14,576 - INFO - priyank added to known encodings.
+2025-02-13 14:45:05,436 - INFO - Removed 'priyank' from the database.
+2025-02-13 14:48:24,660 - INFO - Trained priyank using live capture method.
+2025-02-13 14:48:25,038 - INFO - priyank added to known encodings.
